@@ -4,8 +4,6 @@ Data Analytics & Business Intelligence internship project (Task 2) — Maincraft
 An end-to-end BI workflow: relational data modeling, SQL joins, Excel pivot analysis, and an
 interactive Power BI dashboard, backed by a written business performance report.
 
-![Dashboard Preview](4.Dashboard screenshot.jpeg)
-
 ## Overview
 
 This project combines two related datasets — **Orders** and **Customers** — using SQL JOIN
