@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Region,Segment,Gender,Age
+CUST001,John Walker,North,Home Office,Male,34
+CUST002,Steven Moore,South,Consumer,Female,26
+CUST003,Nancy Wright,North,Home Office,Male,50
+CUST004,John Ramirez,North,Corporate,Male,37
+CUST005,William Brown,East,Consumer,Male,30
+CUST006,Anthony Flores,South,Home Office,Female,45
+CUST007,Andrew Walker,West,Consumer,Male,46
+CUST008,Emily Young,South,Consumer,Male,30
+CUST009,Margaret Garcia,East,Consumer,Male,63
+CUST010,Dorothy Jackson,South,Corporate,Female,52
+CUST011,Margaret Anderson,East,Consumer,Male,23
+CUST012,Elizabeth Nguyen,East,Consumer,Male,35
+CUST013,Michelle Sanchez,South,Consumer,Male,22
+CUST014,Christopher Allen,West,Consumer,Male,64
+CUST015,Betty Moore,South,Consumer,Female,42
+CUST016,Daniel Martinez,North,Corporate,Male,19
+CUST017,John Thompson,East,Consumer,Female,27
+CUST018,Brian Williams,West,Consumer,Female,47
+CUST019,Kevin King,North,Corporate,Female,62
+CUST020,Susan Sanchez,South,Consumer,Male,22
+CUST021,David Walker,West,Corporate,Female,50
+CUST022,Emily Anderson,East,Consumer,Male,18
+CUST023,Patricia Hill,West,Consumer,Female,35
+CUST024,Daniel Scott,East,Consumer,Female,49
+CUST025,Kimberly Young,East,Consumer,Female,64
+CUST026,Donna Davis,South,Consumer,Female,28
+CUST027,Charles Jackson,West,Home Office,Female,38
+CUST028,Matthew Johnson,South,Consumer,Female,43
+CUST029,Betty Miller,East,Corporate,Female,42
+CUST030,Donna Ramirez,South,Corporate,Female,39
+CUST031,George Robinson,East,Consumer,Male,44
+CUST032,Charles Hill,East,Corporate,Male,30
+CUST033,Christopher Wilson,South,Consumer,Female,50
+CUST034,Amanda Anderson,West,Consumer,Female,51
+CUST035,Patricia Jackson,South,Consumer,Female,58
+CUST036,Michelle Davis,East,Corporate,Male,52
+CUST037,Lisa Garcia,South,Home Office,Female,18
+CUST038,Paul Martin,South,Consumer,Male,38
+CUST039,Thomas Martinez,South,Corporate,Male,23
+CUST040,Mark Clark,North,Corporate,Male,45
+CUST041,Melissa Moore,North,Consumer,Male,34
+CUST042,David King,East,Corporate,Male,22
+CUST043,Ashley Lewis,East,Corporate,Female,48
+CUST044,John Gonzalez,East,Home Office,Female,22
+CUST045,Joshua King,North,Home Office,Female,55
+CUST046,Nancy Allen,South,Consumer,Female,20
+CUST047,Kevin Thomas,North,Consumer,Female,40
+CUST048,Brian Lopez,East,Corporate,Male,54
+CUST049,Barbara Ramirez,West,Consumer,Female,54
+CUST050,Ashley Garcia,North,Consumer,Female,27
+CUST051,Dorothy Davis,East,Home Office,Male,27
+CUST052,Kenneth Smith,North,Consumer,Female,36
+CUST053,Michelle Young,North,Consumer,Male,34
+CUST054,Michelle Clark,North,Home Office,Female,38
+CUST055,Lisa Lewis,South,Consumer,Male,31
+CUST056,Susan Young,East,Consumer,Female,26
+CUST057,Betty Jackson,West,Home Office,Female,63
+CUST058,Margaret Thompson,North,Consumer,Male,18
+CUST059,Mary Garcia,East,Consumer,Male,62
+CUST060,Richard Jones,East,Consumer,Male,30
+CUST061,Nancy Clark,West,Home Office,Male,21
+CUST062,Steven Jackson,East,Consumer,Male,18
+CUST063,Kevin Thompson,North,Corporate,Male,57
+CUST064,Patricia Walker,East,Consumer,Male,49
+CUST065,Mark Sanchez,South,Consumer,Male,51
+CUST066,Mark Thompson,West,Home Office,Female,45
+CUST067,John Thompson,South,Corporate,Female,48
+CUST068,Michelle Gonzalez,East,Home Office,Male,25
+CUST069,Donald Johnson,North,Consumer,Female,56
+CUST070,Sarah Moore,South,Corporate,Female,43
+CUST071,Deborah Rodriguez,West,Home Office,Female,51
+CUST072,Susan Taylor,East,Consumer,Female,20
+CUST073,Deborah Wright,South,Consumer,Male,29
+CUST074,Mary Martinez,West,Home Office,Female,18
+CUST075,Dorothy Williams,West,Consumer,Male,61
+CUST076,Kevin Lopez,South,Corporate,Female,22
+CUST077,Amanda Lopez,East,Home Office,Female,47
+CUST078,Nancy Clark,South,Consumer,Female,47
+CUST079,Michael Thompson,East,Consumer,Male,34
+CUST080,Margaret Young,South,Consumer,Female,64
+CUST081,Deborah Clark,North,Consumer,Male,40
+CUST082,Christopher Taylor,West,Consumer,Female,32
+CUST083,Christopher Allen,West,Corporate,Male,54
+CUST084,Thomas Miller,West,Consumer,Female,38
+CUST085,Thomas Smith,West,Corporate,Male,31
+CUST086,Jennifer Brown,East,Consumer,Male,19
+CUST087,Joshua Lewis,East,Consumer,Female,28
+CUST088,Paul Jackson,East,Consumer,Male,56
+CUST089,Emily Miller,South,Corporate,Female,55
+CUST090,Amanda Lee,South,Consumer,Female,51
+CUST091,George Miller,North,Consumer,Female,55
+CUST092,Matthew Ramirez,East,Home Office,Female,51
+CUST093,Matthew Moore,South,Corporate,Female,35
+CUST094,David Thomas,North,Consumer,Female,47
+CUST095,Barbara Gonzalez,East,Home Office,Female,32
+CUST096,Paul Sanchez,South,Consumer,Female,44
+CUST097,Donald Anderson,North,Consumer,Female,51
+CUST098,Melissa Brown,West,Consumer,Female,55
+CUST099,Sarah Jones,West,Consumer,Female,50
+CUST100,Thomas Hill,North,Consumer,Male,41
+CUST101,Charles Torres,North,Corporate,Male,32
+CUST102,Matthew Ramirez,South,Consumer,Female,47
+CUST103,Daniel Hernandez,West,Home Office,Female,59
+CUST104,Joshua Hill,West,Home Office,Female,34
+CUST105,Susan Young,North,Corporate,Female,22
+CUST106,Susan Lewis,East,Corporate,Female,46
+CUST107,Michelle Moore,North,Corporate,Female,21
+CUST108,Andrew Hernandez,South,Home Office,Female,27
+CUST109,Patricia Brown,West,Consumer,Female,34
+CUST110,Daniel Torres,North,Consumer,Male,27
+CUST111,Michael Jackson,North,Corporate,Female,34
+CUST112,Emily Rodriguez,South,Corporate,Male,37
+CUST113,Andrew Gonzalez,East,Consumer,Female,41
+CUST114,Kenneth White,West,Corporate,Female,22
+CUST115,Betty Davis,West,Consumer,Male,51
+CUST116,Lisa Wright,North,Home Office,Female,23
+CUST117,James Walker,North,Consumer,Male,19
+CUST118,Matthew Lewis,West,Consumer,Female,30
+CUST119,Kimberly Moore,North,Consumer,Female,60
+CUST120,Jessica Sanchez,West,Consumer,Male,60
+CUST121,Linda White,East,Consumer,Female,28
+CUST122,John Sanchez,North,Consumer,Male,64
+CUST123,Ashley Brown,West,Consumer,Female,40
+CUST124,Donna Taylor,North,Consumer,Male,33
+CUST125,Michelle Johnson,South,Consumer,Male,48
+CUST126,David Martin,East,Consumer,Female,28
+CUST127,Elizabeth Wilson,South,Consumer,Female,33
+CUST128,Kimberly Garcia,East,Consumer,Male,25
+CUST129,Kimberly Jones,East,Consumer,Female,21
+CUST130,David White,West,Consumer,Female,57
+CUST131,Michelle Miller,West,Consumer,Female,21
+CUST132,Joseph Nguyen,South,Corporate,Male,42
+CUST133,Deborah White,North,Home Office,Male,20
+CUST134,Daniel Wilson,East,Home Office,Male,49
+CUST135,Donald White,West,Corporate,Male,20
+CUST136,Joseph Smith,South,Corporate,Male,44
+CUST137,Linda Hill,South,Consumer,Male,46
+CUST138,Christopher Martin,South,Corporate,Male,49
+CUST139,Lisa Young,North,Corporate,Male,36
+CUST140,Patricia Brown,East,Home Office,Male,38
+CUST141,Susan Martin,South,Home Office,Female,22
+CUST142,Kimberly Martin,West,Consumer,Male,35
+CUST143,Daniel Nguyen,West,Corporate,Female,45
+CUST144,David Thompson,West,Home Office,Female,59
+CUST145,Betty Jackson,South,Consumer,Female,39
+CUST146,Kenneth Hernandez,South,Home Office,Male,38
+CUST147,Melissa Wilson,East,Consumer,Male,23
+CUST148,Betty Lee,West,Home Office,Male,18
+CUST149,Kevin Moore,South,Corporate,Male,22
+CUST150,Joseph Smith,West,Consumer,Female,58
+CUST151,Charles King,North,Corporate,Male,29
+CUST152,James Scott,West,Consumer,Male,43
+CUST153,Betty Garcia,North,Corporate,Male,63
+CUST154,Jessica Thompson,North,Corporate,Male,51
+CUST155,Jessica Jones,East,Corporate,Male,31
+CUST156,Kimberly Clark,North,Home Office,Female,43
+CUST157,Jennifer Lopez,North,Consumer,Male,62
+CUST158,Richard Clark,North,Consumer,Female,44
+CUST159,Andrew Robinson,South,Consumer,Male,26
+CUST160,George Walker,East,Consumer,Female,43
+CUST161,Thomas Jones,North,Consumer,Male,64
+CUST162,Donald Torres,East,Consumer,Male,39
+CUST163,Edward Martinez,West,Consumer,Female,64
+CUST164,Barbara Johnson,North,Consumer,Female,47
+CUST165,Linda Thompson,North,Home Office,Female,60
+CUST166,Betty Anderson,West,Consumer,Male,34
+CUST167,Jessica King,West,Home Office,Female,43
+CUST168,Lisa Allen,East,Consumer,Male,53
+CUST169,Edward Gonzalez,West,Consumer,Male,18
+CUST170,William Hill,North,Corporate,Female,25
+CUST171,Ashley Lopez,South,Consumer,Female,52
+CUST172,Ashley Lee,East,Consumer,Male,32
+CUST173,Amanda Hernandez,North,Corporate,Male,64
+CUST174,Deborah Nguyen,East,Consumer,Female,39
+CUST175,Elizabeth Miller,South,Consumer,Female,31
+CUST176,Anthony Johnson,East,Corporate,Female,43
+CUST177,Joseph Moore,South,Consumer,Male,45
+CUST178,Edward Flores,South,Home Office,Male,40
+CUST179,Linda Scott,North,Consumer,Male,31
+CUST180,John Robinson,North,Home Office,Male,41
+CUST181,Kevin Scott,East,Corporate,Male,19
+CUST182,Barbara Scott,North,Home Office,Male,62
+CUST183,Jennifer Lee,North,Home Office,Female,43
+CUST184,Lisa Gonzalez,North,Consumer,Male,31
+CUST185,Mary Walker,North,Corporate,Male,24
+CUST186,Thomas Clark,West,Consumer,Male,20
+CUST187,Christopher Anderson,South,Home Office,Female,64
+CUST188,Brian Brown,West,Corporate,Male,40
+CUST189,Andrew Robinson,North,Consumer,Male,63
+CUST190,Charles Hernandez,East,Home Office,Female,60
+CUST191,James Nguyen,South,Consumer,Male,64
+CUST192,Melissa Martinez,South,Corporate,Male,62
+CUST193,Mary Jones,West,Corporate,Male,35
+CUST194,Patricia King,West,Consumer,Male,55
+CUST195,Brian Miller,West,Corporate,Male,52
+CUST196,Donna Davis,North,Home Office,Female,32
+CUST197,Charles White,North,Consumer,Female,42
+CUST198,Emily Wright,East,Corporate,Female,54
+CUST199,Robert Davis,South,Consumer,Male,45
+CUST200,Joseph Gonzalez,East,Corporate,Male,27
+CUST201,Deborah Young,East,Consumer,Male,56
+CUST202,Thomas Hill,East,Home Office,Female,34
+CUST203,Matthew Lee,West,Home Office,Male,56
+CUST204,Nancy Garcia,East,Consumer,Male,39
+CUST205,George Smith,North,Consumer,Female,43
+CUST206,David Martinez,North,Corporate,Male,61
+CUST207,Susan Garcia,East,Corporate,Female,42
+CUST208,James Ramirez,South,Consumer,Female,34
+CUST209,Edward Jones,North,Consumer,Female,30
+CUST210,Joseph Lee,South,Consumer,Male,37
+CUST211,George Ramirez,East,Home Office,Male,42
+CUST212,Joshua White,West,Consumer,Male,21
+CUST213,Christopher Davis,East,Home Office,Male,27
+CUST214,Carol Allen,South,Consumer,Male,20
+CUST215,Mary Lewis,North,Home Office,Male,58
+CUST216,John Robinson,East,Consumer,Male,62
+CUST217,Dorothy Garcia,South,Consumer,Female,35
+CUST218,Nancy Jones,East,Home Office,Male,64
+CUST219,Mark Nguyen,East,Home Office,Female,53
+CUST220,John Thomas,North,Consumer,Male,64
+CUST221,Edward Gonzalez,North,Consumer,Male,39
+CUST222,Michael Martin,North,Consumer,Male,51
+CUST223,Margaret Clark,West,Consumer,Female,64
+CUST224,Jessica Hill,East,Consumer,Female,25
+CUST225,Anthony Lopez,North,Home Office,Female,57
+CUST226,Edward Torres,West,Consumer,Female,61
+CUST227,Matthew Smith,South,Corporate,Male,36
+CUST228,Sandra Thompson,South,Consumer,Female,59
+CUST229,Linda Sanchez,West,Consumer,Male,58
+CUST230,Kevin Jones,North,Corporate,Male,54
+CUST231,Andrew Garcia,North,Consumer,Female,23
+CUST232,Donna Taylor,East,Corporate,Female,43
+CUST233,James Hill,North,Consumer,Female,51
+CUST234,David White,East,Home Office,Female,62
+CUST235,Elizabeth Nguyen,North,Corporate,Female,23
+CUST236,Andrew Allen,North,Home Office,Female,54
+CUST237,Nancy Jackson,North,Consumer,Female,50
+CUST238,Ashley Young,South,Consumer,Female,39
+CUST239,Kevin Smith,North,Consumer,Male,38
+CUST240,Kimberly Jones,North,Corporate,Female,23
+CUST241,Joseph King,West,Consumer,Female,23
+CUST242,Richard Young,South,Consumer,Male,21
+CUST243,Lisa Martinez,South,Consumer,Female,47
+CUST244,Thomas Perez,North,Consumer,Male,28
+CUST245,Joshua Harris,South,Consumer,Male,47
+CUST246,George Wright,North,Consumer,Female,48
+CUST247,Donna Harris,East,Consumer,Male,41
+CUST248,Joseph Taylor,North,Corporate,Male,26
+CUST249,Jennifer Anderson,West,Consumer,Male,20
+CUST250,George Moore,West,Consumer,Male,48
+CUST251,Jennifer Clark,North,Corporate,Female,57
+CUST252,Edward Wright,North,Corporate,Male,54
+CUST253,Susan Jackson,North,Consumer,Female,53
+CUST254,Anthony Martinez,East,Corporate,Male,41
+CUST255,Susan Martinez,North,Home Office,Male,48
+CUST256,Deborah Robinson,West,Corporate,Male,23
+CUST257,Kevin Allen,East,Home Office,Male,19
+CUST258,Melissa Jones,West,Corporate,Female,37
+CUST259,Brian Williams,East,Consumer,Female,45
+CUST260,Lisa White,West,Consumer,Male,28
+CUST261,Sarah Garcia,North,Corporate,Male,21
+CUST262,Elizabeth Allen,South,Home Office,Female,32
+CUST263,Jessica Gonzalez,South,Consumer,Male,23
+CUST264,George Garcia,West,Consumer,Male,47
+CUST265,Amanda Torres,East,Corporate,Male,55
+CUST266,Sandra Miller,West,Consumer,Female,19
+CUST267,Linda Lopez,North,Corporate,Female,32
+CUST268,Mark Miller,West,Corporate,Female,28
+CUST269,Daniel Jones,South,Corporate,Male,25
+CUST270,Betty Smith,South,Home Office,Male,43
+CUST271,Emily Williams,West,Corporate,Female,62
+CUST272,Elizabeth Miller,South,Corporate,Female,61
+CUST273,Dorothy Williams,South,Corporate,Female,22
+CUST274,Nancy White,East,Home Office,Female,23
+CUST275,Margaret Ramirez,North,Home Office,Male,43
+CUST276,Kenneth Thomas,South,Consumer,Female,21
+CUST277,Dorothy Gonzalez,North,Corporate,Male,36
+CUST278,Deborah Lee,North,Consumer,Female,37
+CUST279,Andrew Scott,West,Home Office,Male,50
+CUST280,Michelle Wright,East,Corporate,Female,37
+CUST281,Anthony Johnson,South,Consumer,Female,29
+CUST282,Matthew Davis,South,Consumer,Female,64
+CUST283,Brian Martinez,South,Consumer,Female,18
+CUST284,Barbara Martinez,East,Corporate,Male,43
+CUST285,Steven Thompson,West,Consumer,Female,31
+CUST286,Melissa Taylor,West,Consumer,Male,55
+CUST287,Joseph Johnson,South,Home Office,Male,54
+CUST288,James Anderson,South,Corporate,Male,28
+CUST289,George Lee,South,Consumer,Male,53
+CUST290,Brian Jones,East,Consumer,Female,30
+CUST291,John King,South,Home Office,Male,60
+CUST292,Jennifer Williams,East,Corporate,Male,20
+CUST293,Christopher Torres,East,Corporate,Male,50
+CUST294,Paul Brown,South,Consumer,Female,23
+CUST295,Dorothy King,South,Consumer,Female,27
+CUST296,Kenneth Torres,South,Consumer,Female,22
+CUST297,Barbara Flores,North,Corporate,Female,40
+CUST298,Thomas Allen,North,Consumer,Male,27
+CUST299,Mark Young,East,Consumer,Male,61
+CUST300,Ashley Sanchez,South,Corporate,Female,19
+CUST301,Donald Young,North,Home Office,Male,30
+CUST302,Andrew Garcia,East,Corporate,Male,57
+CUST303,Dorothy Perez,East,Consumer,Male,19
+CUST304,Thomas Lee,North,Consumer,Female,37
+CUST305,Edward Wright,West,Consumer,Female,18
+CUST306,Dorothy Jackson,West,Consumer,Male,54
+CUST307,Michelle Thomas,East,Corporate,Female,26
+CUST308,Paul Sanchez,East,Consumer,Female,34
+CUST309,Richard Hernandez,North,Corporate,Female,26
+CUST310,Patricia Garcia,West,Home Office,Female,28
+CUST311,Nancy Martin,South,Home Office,Female,32
+CUST312,David Taylor,West,Consumer,Male,41
+CUST313,Donald Martinez,East,Consumer,Female,55
+CUST314,Thomas Anderson,North,Consumer,Male,52
+CUST315,Margaret Anderson,North,Consumer,Male,47
+CUST316,Andrew Wilson,East,Consumer,Female,48
+CUST317,Nancy Thomas,East,Consumer,Male,22
+CUST318,Elizabeth Ramirez,North,Corporate,Male,61
+CUST319,Barbara Lopez,East,Consumer,Male,31
+CUST320,Michelle Nguyen,West,Home Office,Female,28
+CUST321,Kimberly Torres,South,Consumer,Female,26
+CUST322,Kevin Martin,South,Consumer,Male,51
+CUST323,Joshua Wilson,North,Consumer,Female,29
+CUST324,Lisa Perez,West,Consumer,Female,52
+CUST325,Edward King,South,Consumer,Female,52
+CUST326,Matthew Clark,West,Home Office,Female,18
+CUST327,William Allen,South,Consumer,Male,57
+CUST328,Betty Perez,East,Consumer,Male,39
+CUST329,Joshua Sanchez,North,Corporate,Female,46
+CUST330,Patricia Lopez,North,Consumer,Female,25
+CUST331,David Robinson,East,Corporate,Male,28
+CUST332,Mary Rodriguez,South,Consumer,Male,58
+CUST333,Sandra Ramirez,East,Home Office,Female,54
+CUST334,Margaret Wright,West,Consumer,Male,31
+CUST335,Amanda Garcia,West,Consumer,Female,47
+CUST336,Melissa Harris,West,Corporate,Female,52
+CUST337,Ashley Brown,North,Home Office,Male,38
+CUST338,Ashley Robinson,East,Consumer,Male,54
+CUST339,Sandra Brown,West,Corporate,Female,22
+CUST340,Anthony Nguyen,South,Consumer,Female,36
+CUST341,Andrew Garcia,North,Consumer,Male,31
+CUST342,Melissa Hill,West,Consumer,Female,43
+CUST343,David Allen,South,Corporate,Male,21
+CUST344,Christopher White,East,Consumer,Female,42
+CUST345,Daniel Young,West,Corporate,Male,62
+CUST346,Deborah Young,East,Consumer,Male,59
+CUST347,George Nguyen,South,Home Office,Male,42
+CUST348,John Hernandez,South,Home Office,Female,35
+CUST349,Andrew White,South,Consumer,Female,57
+CUST350,Robert Brown,North,Consumer,Male,25
+CUST351,Anthony Harris,West,Consumer,Female,56
+CUST352,David Miller,West,Home Office,Male,57
+CUST353,Michael Thompson,South,Consumer,Male,31
+CUST354,James Thompson,South,Corporate,Female,49
+CUST355,Lisa Jackson,West,Consumer,Female,55
+CUST356,Kimberly Lee,North,Corporate,Male,50
+CUST357,Andrew Walker,East,Consumer,Female,40
+CUST358,George Young,South,Corporate,Female,32
+CUST359,Margaret Martin,East,Home Office,Male,50
+CUST360,Barbara White,North,Consumer,Male,42
+CUST361,Michael Nguyen,East,Home Office,Female,34
+CUST362,Kevin Jones,South,Consumer,Male,50
+CUST363,Michelle Jones,East,Consumer,Male,64
+CUST364,Andrew Brown,North,Home Office,Female,19
+CUST365,Matthew Clark,South,Corporate,Male,31
+CUST366,Andrew Taylor,East,Corporate,Male,57
+CUST367,George Walker,North,Consumer,Female,57
+CUST368,William Clark,North,Consumer,Female,56
+CUST369,Andrew Wilson,North,Consumer,Male,23
+CUST370,Andrew Scott,South,Corporate,Male,23
+CUST371,Kenneth Walker,North,Consumer,Female,20
+CUST372,Ashley Hernandez,West,Consumer,Female,24
+CUST373,Michelle Anderson,South,Consumer,Female,25
+CUST374,Anthony Gonzalez,West,Consumer,Female,59
+CUST375,Jessica Miller,West,Consumer,Male,32
+CUST376,Edward Garcia,North,Consumer,Female,64
+CUST377,John Nguyen,East,Home Office,Female,46
+CUST378,Betty Moore,West,Corporate,Male,50
+CUST379,Andrew Thomas,East,Consumer,Female,47
+CUST380,Michael Robinson,South,Corporate,Male,56
+CUST381,David Thompson,South,Home Office,Female,44
+CUST382,Melissa Nguyen,North,Consumer,Female,53
+CUST383,Charles Young,East,Consumer,Female,46
+CUST384,Donald Martin,West,Consumer,Male,55
+CUST385,Michael Thomas,West,Consumer,Male,50
+CUST386,Steven Flores,North,Corporate,Female,54
+CUST387,James Lewis,East,Home Office,Male,44
+CUST388,Kevin Hill,South,Consumer,Male,50
+CUST389,Nancy Jones,West,Corporate,Male,21
+CUST390,Susan Wright,North,Consumer,Male,39
+CUST391,Carol Sanchez,West,Corporate,Male,19
+CUST392,Michael Jones,West,Corporate,Male,27
+CUST393,Lisa White,North,Consumer,Female,22
+CUST394,Mary Ramirez,North,Consumer,Female,27
+CUST395,Betty Smith,West,Corporate,Male,50
+CUST396,John Jackson,North,Home Office,Female,55
+CUST397,Andrew King,East,Consumer,Female,30
+CUST398,Nancy Lopez,West,Consumer,Female,48
+CUST399,Edward Jackson,East,Consumer,Female,64
+CUST400,Jessica Moore,South,Corporate,Male,53
+CUST401,James Gonzalez,South,Corporate,Female,62
+CUST402,Margaret Torres,North,Corporate,Female,41
+CUST403,Andrew Young,West,Corporate,Male,32
+CUST404,Betty Jones,South,Home Office,Male,46
+CUST405,Karen Flores,North,Home Office,Female,25
+CUST406,Robert Scott,South,Consumer,Female,22
+CUST407,Paul Lopez,West,Corporate,Female,46
+CUST408,Joshua King,North,Consumer,Female,64
+CUST409,Robert Jones,West,Consumer,Female,21
+CUST410,Kimberly Flores,East,Home Office,Female,29
+CUST411,Mary Clark,West,Corporate,Male,62
+CUST412,Michael Clark,West,Home Office,Female,19
+CUST413,Ashley Brown,West,Consumer,Female,44
+CUST414,Paul Scott,West,Corporate,Male,48
+CUST415,Carol Johnson,North,Consumer,Male,53
+CUST416,Richard Martinez,West,Consumer,Male,53
+CUST417,Daniel Garcia,East,Consumer,Male,43
+CUST418,Kevin Young,East,Corporate,Female,60
+CUST419,Kenneth Davis,West,Consumer,Female,44
+CUST420,James Torres,West,Home Office,Female,22
+CUST421,Joseph Clark,East,Consumer,Female,37
+CUST422,Amanda Johnson,South,Consumer,Female,28
+CUST423,James Smith,South,Corporate,Female,27
+CUST424,Linda Williams,South,Consumer,Male,57
+CUST425,Kenneth Harris,South,Home Office,Female,55
+CUST426,Deborah Allen,South,Corporate,Male,23
+CUST427,Edward Martinez,North,Consumer,Male,25
+CUST428,Joseph King,North,Corporate,Female,40
+CUST429,Richard Williams,East,Corporate,Male,64
+CUST430,Kimberly Allen,South,Corporate,Female,43
+CUST431,Edward Nguyen,West,Home Office,Male,63
+CUST432,Michael Walker,East,Corporate,Female,60
+CUST433,Kevin Ramirez,North,Corporate,Male,29
+CUST434,Kenneth King,North,Consumer,Female,43
+CUST435,Daniel Johnson,North,Corporate,Female,30
+CUST436,Daniel Rodriguez,West,Home Office,Female,57
+CUST437,Jennifer Jones,North,Corporate,Female,35
+CUST438,Paul Lee,South,Corporate,Female,42
+CUST439,Anthony Robinson,West,Consumer,Male,50
+CUST440,Betty Sanchez,West,Corporate,Male,64
+CUST441,John Wright,North,Home Office,Male,57
+CUST442,Daniel Miller,North,Consumer,Female,60
+CUST443,Kenneth Robinson,North,Consumer,Male,29
+CUST444,Robert Davis,North,Corporate,Female,61
+CUST445,James Hernandez,North,Consumer,Female,53
+CUST446,John Lewis,East,Corporate,Male,21
+CUST447,Anthony Flores,West,Consumer,Male,22
+CUST448,Donna Harris,East,Consumer,Female,54
+CUST449,Margaret Williams,East,Corporate,Male,25
+CUST450,Patricia Harris,North,Corporate,Female,59
+CUST451,James Johnson,West,Corporate,Female,45
+CUST452,William Scott,East,Corporate,Female,48
+CUST453,Daniel Lewis,West,Corporate,Female,26
+CUST454,Christopher Miller,West,Corporate,Female,46
+CUST455,Charles Brown,South,Corporate,Male,31
+CUST456,Joshua Davis,North,Corporate,Male,57
+CUST457,Charles Flores,North,Corporate,Female,58
+CUST458,Sandra Jackson,South,Consumer,Female,39
+CUST459,Betty Young,West,Consumer,Male,28
+CUST460,Richard Sanchez,South,Corporate,Male,40
+CUST461,Carol Thompson,East,Home Office,Female,18
+CUST462,Daniel Garcia,East,Corporate,Male,63
+CUST463,Richard Nguyen,North,Consumer,Female,54
+CUST464,Betty Gonzalez,South,Corporate,Male,38
+CUST465,Christopher White,East,Consumer,Female,43
+CUST466,Anthony Ramirez,East,Corporate,Male,63
+CUST467,Richard Sanchez,South,Home Office,Female,53
+CUST468,Daniel Nguyen,North,Corporate,Male,40
+CUST469,Linda Garcia,East,Corporate,Male,18
+CUST470,Lisa Lee,North,Consumer,Female,57
+CUST471,Paul Taylor,West,Consumer,Male,32
+CUST472,Amanda Jackson,North,Home Office,Female,38
+CUST473,Michael Jones,North,Corporate,Male,64
+CUST474,Edward Garcia,South,Corporate,Female,26
+CUST475,Melissa Lopez,South,Consumer,Male,26
+CUST476,John Gonzalez,South,Consumer,Female,27
+CUST477,Donald Moore,South,Consumer,Male,43
+CUST478,Michelle Harris,West,Consumer,Female,58
+CUST479,Christopher Sanchez,South,Consumer,Male,52
+CUST480,Edward Taylor,South,Home Office,Female,42
+CUST481,Linda Taylor,South,Corporate,Female,43
+CUST482,Kevin Rodriguez,North,Consumer,Female,28
+CUST483,Melissa White,East,Consumer,Male,55
+CUST484,Donald Gonzalez,North,Consumer,Female,19
+CUST485,George Johnson,East,Home Office,Male,24
+CUST486,Joseph Taylor,North,Consumer,Female,35
+CUST487,Lisa Jackson,West,Corporate,Male,44
+CUST488,Linda Martinez,South,Home Office,Female,51
+CUST489,John Thompson,West,Consumer,Male,44
+CUST490,Sarah Thompson,South,Corporate,Male,34
+CUST491,Sandra Lewis,North,Home Office,Female,60
+CUST492,Betty Sanchez,West,Consumer,Male,61
+CUST493,Sandra Clark,East,Consumer,Male,41
+CUST494,Donald Gonzalez,West,Home Office,Female,42
+CUST495,Richard Young,South,Home Office,Male,24
+CUST496,Sarah Perez,East,Corporate,Male,23
+CUST497,Elizabeth Moore,West,Corporate,Male,41
+CUST498,Anthony Sanchez,East,Consumer,Female,50
+CUST499,Anthony Anderson,South,Home Office,Male,46
+CUST500,Edward Lee,East,Consumer,Female,60
+CUST501,Kenneth Robinson,East,Consumer,Male,39
+CUST502,Betty Scott,West,Corporate,Male,43
+CUST503,Michael Torres,South,Home Office,Male,45
+CUST504,Kevin Lee,South,Home Office,Female,38
+CUST505,Andrew Lee,West,Consumer,Male,24
+CUST506,Susan Young,South,Consumer,Male,34
+CUST507,Richard Gonzalez,East,Home Office,Female,37
+CUST508,Margaret King,South,Home Office,Male,58
+CUST509,Karen Martin,North,Corporate,Female,37
+CUST510,Robert Jones,East,Corporate,Female,39
+CUST511,Robert Williams,North,Consumer,Male,45
+CUST512,Carol King,North,Consumer,Female,57
+CUST513,Dorothy Williams,East,Consumer,Male,24
+CUST514,Patricia Lopez,East,Consumer,Female,18
+CUST515,Mark Wilson,West,Consumer,Female,49
+CUST516,Matthew Miller,North,Home Office,Male,30
+CUST517,Andrew Gonzalez,North,Consumer,Female,47
+CUST518,Patricia Robinson,West,Consumer,Female,40
+CUST519,Amanda Smith,North,Corporate,Female,36
+CUST520,Nancy King,North,Consumer,Female,49
+CUST521,Emily Wright,South,Consumer,Female,47
+CUST522,Christopher Anderson,East,Corporate,Male,46
+CUST523,Emily Miller,West,Consumer,Female,62
+CUST524,Barbara Harris,East,Corporate,Male,46
+CUST525,Kimberly Jones,East,Home Office,Female,47
+CUST526,Margaret Anderson,North,Consumer,Male,33
+CUST527,Margaret Hill,South,Home Office,Male,57
+CUST528,Patricia Flores,South,Home Office,Female,36
+CUST529,Daniel Walker,North,Home Office,Female,35
+CUST530,Nancy Gonzalez,North,Corporate,Female,18
+CUST531,Joshua Ramirez,South,Corporate,Male,31
+CUST532,Linda Lewis,North,Corporate,Female,64
+CUST533,Donna Thomas,East,Corporate,Male,19
+CUST534,George Sanchez,East,Consumer,Male,45
+CUST535,Thomas Smith,North,Home Office,Male,47
+CUST536,Kimberly Rodriguez,South,Corporate,Female,55
+CUST537,Donna Perez,West,Corporate,Female,21
+CUST538,Lisa Miller,East,Consumer,Male,18
+CUST539,Emily Miller,West,Consumer,Male,25
+CUST540,Christopher King,South,Corporate,Female,46
+CUST541,George Flores,West,Corporate,Male,56
+CUST542,Melissa Thompson,North,Consumer,Female,20
+CUST543,William King,South,Consumer,Male,49
+CUST544,Kenneth Flores,North,Consumer,Female,27
+CUST545,Steven Garcia,South,Corporate,Male,27
+CUST546,Margaret Moore,South,Consumer,Female,36
+CUST547,Kevin Thomas,North,Home Office,Male,63
+CUST548,Thomas Brown,East,Consumer,Female,51
+CUST549,Dorothy Walker,South,Consumer,Female,50
+CUST550,Robert Moore,North,Consumer,Male,40
+CUST551,Lisa Jackson,North,Corporate,Male,45
+CUST552,Amanda Miller,South,Consumer,Female,49
+CUST553,Jessica Davis,South,Corporate,Male,24
+CUST554,Richard Torres,South,Home Office,Female,46
+CUST555,Melissa Johnson,North,Consumer,Male,25
+CUST556,Ashley Martinez,East,Corporate,Female,18
+CUST557,Elizabeth Lopez,West,Consumer,Female,20
+CUST558,Elizabeth Martin,South,Consumer,Female,41
+CUST559,Deborah White,East,Consumer,Female,40
+CUST560,Andrew Martin,West,Consumer,Female,25
+CUST561,James Brown,West,Corporate,Female,64
+CUST562,Susan Martinez,East,Corporate,Male,54
+CUST563,Kevin King,West,Corporate,Male,20
+CUST564,Kevin Sanchez,West,Corporate,Male,50
+CUST565,Betty Sanchez,West,Corporate,Female,45
+CUST566,Christopher Clark,South,Consumer,Female,64
+CUST567,Michelle Walker,North,Consumer,Female,25
+CUST568,Donald Williams,North,Consumer,Female,51
+CUST569,Andrew Anderson,South,Corporate,Male,52
+CUST570,Donna Perez,South,Home Office,Male,49
+CUST571,Brian Wilson,South,Consumer,Female,41
+CUST572,George King,East,Corporate,Male,31
+CUST573,Thomas Martin,East,Corporate,Male,49
+CUST574,Anthony Walker,West,Home Office,Female,63
+CUST575,Paul Wright,North,Corporate,Male,60
+CUST576,Charles Lee,North,Corporate,Female,33
+CUST577,Nancy Torres,West,Corporate,Male,21
+CUST578,Jessica White,West,Home Office,Female,54
+CUST579,Michael Wright,West,Consumer,Female,38
+CUST580,Karen Wilson,West,Home Office,Female,31
+CUST581,Sandra Martin,West,Consumer,Female,48
+CUST582,Kevin Perez,South,Home Office,Male,35
+CUST583,Margaret Jones,South,Consumer,Female,24
+CUST584,Mary Thomas,North,Consumer,Female,27
+CUST585,Deborah Torres,East,Consumer,Female,24
+CUST586,Ashley Sanchez,West,Consumer,Male,50
+CUST587,Karen Davis,South,Consumer,Female,40
+CUST588,James Wilson,East,Consumer,Male,38
+CUST589,Jessica Davis,South,Consumer,Female,36
+CUST590,Richard Smith,North,Consumer,Male,36
+CUST591,Donald Nguyen,North,Corporate,Male,53
+CUST592,Paul Moore,North,Home Office,Female,46
+CUST593,Nancy Gonzalez,West,Corporate,Male,35
+CUST594,Linda White,South,Consumer,Female,19
+CUST595,Mark Smith,West,Consumer,Female,18
+CUST596,Christopher Lopez,East,Home Office,Female,64
+CUST597,David Lewis,North,Consumer,Male,22
+CUST598,Anthony Sanchez,North,Consumer,Male,37
+CUST599,Emily Flores,West,Home Office,Female,28
+CUST600,Kenneth Harris,North,Home Office,Female,59
+CUST601,Carol Martin,West,Consumer,Male,19
+CUST602,Deborah Walker,North,Corporate,Female,20
+CUST603,Steven Torres,East,Consumer,Female,40
+CUST604,Margaret Lewis,West,Corporate,Female,29
+CUST605,Joseph Hill,North,Consumer,Male,37
+CUST606,Ashley Young,North,Consumer,Male,22
+CUST607,Lisa Wright,West,Corporate,Male,54
+CUST608,Patricia Jones,North,Consumer,Female,55
+CUST609,Margaret Robinson,South,Corporate,Female,47
+CUST610,Kenneth Moore,South,Consumer,Female,26
+CUST611,Steven Thompson,North,Home Office,Male,51
+CUST612,Edward Clark,East,Home Office,Female,61
+CUST613,Christopher Hill,East,Consumer,Female,52
+CUST614,Jennifer Flores,South,Corporate,Female,39
+CUST615,Linda Lopez,West,Consumer,Female,61
+CUST616,Dorothy Robinson,North,Consumer,Male,41
+CUST617,Edward Robinson,North,Consumer,Male,34
+CUST618,Ashley Wilson,East,Home Office,Female,27
+CUST619,James Jones,West,Home Office,Male,47
+CUST620,Joseph Johnson,North,Home Office,Male,63
+CUST621,Margaret Young,North,Home Office,Female,40
+CUST622,Edward Martin,South,Home Office,Female,49
+CUST623,Carol Flores,West,Consumer,Male,34
+CUST624,Kevin Jackson,North,Home Office,Female,34
+CUST625,Thomas Flores,South,Corporate,Male,31
+CUST626,Richard Taylor,East,Consumer,Female,26
+CUST627,Patricia Young,South,Corporate,Male,57
+CUST628,Steven Brown,North,Consumer,Female,19
+CUST629,Barbara Thompson,North,Consumer,Male,62
+CUST630,Betty Allen,South,Consumer,Male,42
+CUST631,Susan Torres,South,Consumer,Male,56
+CUST632,Daniel Allen,West,Consumer,Female,26
+CUST633,Barbara Johnson,East,Home Office,Male,39
+CUST634,Robert Anderson,East,Corporate,Male,60
+CUST635,Melissa Johnson,West,Corporate,Female,63
+CUST636,Charles Jones,South,Consumer,Female,21
+CUST637,George Ramirez,South,Consumer,Male,43
+CUST638,Joshua Lewis,West,Consumer,Male,46
+CUST639,Steven Walker,North,Home Office,Female,62
+CUST640,James Wright,East,Consumer,Female,51
+CUST641,Andrew Robinson,East,Corporate,Female,40
+CUST642,Karen Allen,North,Corporate,Female,54
+CUST643,Karen Johnson,South,Corporate,Female,28
+CUST644,Amanda Martinez,North,Home Office,Male,23
+CUST645,Jennifer Harris,North,Consumer,Female,35
+CUST646,Barbara Wright,South,Home Office,Male,38
+CUST647,Daniel Smith,South,Corporate,Male,59
+CUST648,Melissa Lee,West,Corporate,Male,53
+CUST649,Susan Ramirez,West,Corporate,Female,58
+CUST650,Anthony Johnson,West,Home Office,Male,55
+CUST651,Donna Taylor,North,Home Office,Male,51
+CUST652,Paul Scott,North,Consumer,Female,34
+CUST653,Donald Clark,North,Home Office,Male,54
+CUST654,Richard Martinez,North,Corporate,Male,42
+CUST655,Christopher Wright,West,Consumer,Female,55
+CUST656,Anthony Wilson,South,Home Office,Male,29
+CUST657,Joshua Wright,North,Consumer,Male,40
+CUST658,Amanda Lopez,West,Corporate,Male,59
+CUST659,Emily White,South,Consumer,Female,39
+CUST660,Daniel Thomas,North,Consumer,Female,38
+CUST661,Jennifer Hernandez,North,Home Office,Female,44
+CUST662,Betty Scott,East,Consumer,Male,48
+CUST663,Carol Davis,West,Consumer,Male,23
+CUST664,Kimberly Brown,North,Consumer,Female,44
+CUST665,Kimberly Wilson,West,Consumer,Male,57
+CUST666,Daniel Lewis,West,Home Office,Male,51
+CUST667,Nancy Allen,West,Home Office,Female,29
+CUST668,Anthony Flores,North,Consumer,Female,62
+CUST669,Ashley Lopez,North,Corporate,Male,24
+CUST670,Joshua Taylor,West,Consumer,Male,27
+CUST671,Anthony Garcia,South,Corporate,Male,62
+CUST672,Jennifer Thompson,East,Consumer,Female,34
+CUST673,Elizabeth Flores,East,Consumer,Female,43
+CUST674,Kevin Lewis,North,Consumer,Female,38
+CUST675,Andrew White,West,Corporate,Female,45
+CUST676,Patricia Thomas,West,Corporate,Male,63
+CUST677,Matthew Torres,East,Consumer,Female,19
+CUST678,William Martin,South,Home Office,Female,60
+CUST679,Sarah Garcia,West,Corporate,Female,18
+CUST680,Jennifer Anderson,East,Consumer,Female,53
+CUST681,John Williams,East,Home Office,Female,43
+CUST682,Sarah Rodriguez,West,Home Office,Male,46
+CUST683,Betty Smith,East,Consumer,Male,38
+CUST684,Jessica Jackson,South,Corporate,Female,28
+CUST685,Edward Sanchez,North,Consumer,Male,57
+CUST686,Brian Wilson,North,Corporate,Female,28
+CUST687,Daniel Taylor,South,Consumer,Female,53
+CUST688,Brian Hill,South,Corporate,Male,56
+CUST689,Edward Walker,East,Consumer,Male,57
+CUST690,Margaret Perez,South,Corporate,Female,52
+CUST691,Deborah Lopez,West,Home Office,Female,51
+CUST692,Sarah Scott,West,Consumer,Female,64
+CUST693,Karen Martinez,North,Home Office,Male,41
+CUST694,Mark Wilson,East,Home Office,Female,39
+CUST695,Brian Torres,East,Home Office,Female,22
+CUST696,Jessica Perez,East,Consumer,Female,50
+CUST697,Deborah Robinson,North,Home Office,Male,53
+CUST698,William White,West,Consumer,Female,64
+CUST699,Donald Clark,West,Consumer,Female,37
+CUST700,Mary Lopez,East,Home Office,Male,36
+CUST701,Kevin Martinez,West,Corporate,Female,52
+CUST702,Joseph Gonzalez,West,Corporate,Female,60
+CUST703,David Miller,South,Consumer,Male,34
+CUST704,Sarah Wright,East,Home Office,Female,62
+CUST705,James Lopez,South,Corporate,Male,60
+CUST706,Patricia Thompson,West,Consumer,Male,51
+CUST707,Richard Young,North,Home Office,Female,26
+CUST708,Sandra Young,South,Consumer,Female,43
+CUST709,Ashley Moore,West,Consumer,Female,19
+CUST710,Carol Martin,South,Corporate,Female,26
+CUST711,Melissa Flores,West,Home Office,Male,26
+CUST712,Sandra Clark,South,Consumer,Female,57
+CUST713,Richard Allen,West,Consumer,Male,34
+CUST714,Kimberly Torres,West,Consumer,Female,18
+CUST715,Susan Young,South,Home Office,Female,42
+CUST716,Lisa Davis,East,Consumer,Female,60
+CUST717,David Thompson,South,Corporate,Male,57
+CUST718,Jessica Jones,East,Home Office,Female,59
+CUST719,Nancy Clark,East,Consumer,Female,42
+CUST720,Jessica Hill,West,Corporate,Female,56
+CUST721,Joshua Lee,North,Corporate,Female,52
+CUST722,George Moore,North,Home Office,Male,20
+CUST723,Michael Johnson,East,Consumer,Female,54
+CUST724,George Hill,East,Consumer,Male,61
+CUST725,Andrew Jones,South,Consumer,Male,61
+CUST726,Joseph Johnson,North,Corporate,Male,47
+CUST727,Robert Martinez,South,Corporate,Male,55
+CUST728,Mark Williams,West,Consumer,Male,51
+CUST729,Deborah Jackson,North,Consumer,Male,29
+CUST730,Susan Lee,South,Home Office,Female,36
+CUST731,Michelle Gonzalez,West,Consumer,Male,54
+CUST732,Robert Williams,North,Consumer,Male,61
+CUST733,Kevin Jones,East,Corporate,Male,34
+CUST734,Ashley Thomas,North,Consumer,Female,27
+CUST735,Joshua Williams,West,Consumer,Female,64
+CUST736,Brian Ramirez,East,Consumer,Male,29
+CUST737,Daniel Rodriguez,West,Consumer,Female,33
+CUST738,Edward Gonzalez,North,Corporate,Male,41
+CUST739,Matthew Thomas,East,Corporate,Male,36
+CUST740,Barbara Taylor,East,Corporate,Female,25
+CUST741,Linda Smith,North,Consumer,Male,48
+CUST742,Joseph Jones,North,Home Office,Female,38
+CUST743,Christopher Wright,North,Consumer,Female,34
+CUST744,David Smith,West,Corporate,Male,40
+CUST745,Jennifer Lee,East,Consumer,Male,54
+CUST746,Susan Martin,East,Corporate,Female,33
+CUST747,Mary Wilson,East,Consumer,Male,23
+CUST748,Christopher Moore,East,Consumer,Male,25
+CUST749,Betty Young,South,Consumer,Male,42
+CUST750,Lisa King,South,Consumer,Female,35
+CUST751,Anthony Hernandez,East,Consumer,Female,42
+CUST752,Barbara Gonzalez,North,Corporate,Male,29
+CUST753,Sandra Martinez,West,Home Office,Female,32
+CUST754,Amanda Martin,West,Consumer,Female,43
+CUST755,Carol Ramirez,South,Home Office,Female,58
+CUST756,Thomas Martinez,East,Corporate,Female,62
+CUST757,Donna Wilson,North,Home Office,Female,43
+CUST758,Richard Nguyen,West,Corporate,Male,64
+CUST759,Matthew Johnson,West,Corporate,Male,49
+CUST760,Matthew Jackson,West,Corporate,Male,27
+CUST761,Carol Lewis,South,Corporate,Female,33
+CUST762,Elizabeth Miller,North,Home Office,Female,24
+CUST763,Donald Johnson,North,Consumer,Male,34
+CUST764,Jessica Garcia,North,Consumer,Female,40
+CUST765,Mary Torres,North,Consumer,Male,43
+CUST766,John Smith,North,Home Office,Male,38
+CUST767,George Davis,West,Consumer,Male,39
+CUST768,Kenneth Johnson,North,Corporate,Female,24
+CUST769,Linda Jones,North,Home Office,Female,31
+CUST770,Emily Harris,West,Home Office,Male,32
+CUST771,Lisa Martinez,East,Consumer,Male,24
+CUST772,John Thompson,East,Corporate,Male,26
+CUST773,Barbara White,East,Home Office,Male,25
+CUST774,Paul King,West,Consumer,Female,40
+CUST775,Matthew Smith,East,Corporate,Female,46
+CUST776,Joseph Wright,East,Consumer,Male,35
+CUST777,Anthony Harris,East,Corporate,Male,48
+CUST778,Daniel Miller,South,Corporate,Female,47
+CUST779,Brian Walker,South,Consumer,Female,56
+CUST780,Deborah Wright,South,Consumer,Male,52
+CUST781,Joseph Hernandez,North,Consumer,Male,35
+CUST782,Richard Torres,West,Consumer,Male,59
+CUST783,Betty Jackson,North,Corporate,Female,56
+CUST784,Edward Harris,North,Consumer,Female,34
+CUST785,Amanda Flores,North,Consumer,Female,31
+CUST786,Patricia Anderson,West,Corporate,Male,48
+CUST787,Andrew Allen,South,Corporate,Male,41
+CUST788,Linda Gonzalez,East,Corporate,Female,52
+CUST789,Betty Young,West,Home Office,Female,61
+CUST790,Jennifer Harris,North,Consumer,Male,62
+CUST791,Joseph Rodriguez,East,Home Office,Female,51
+CUST792,Margaret Taylor,South,Consumer,Female,20
+CUST793,Ashley Gonzalez,North,Corporate,Male,54
+CUST794,Dorothy Brown,East,Home Office,Female,60
+CUST795,Carol Johnson,West,Home Office,Male,57
+CUST796,Andrew Wilson,South,Corporate,Male,43
+CUST797,Karen Smith,East,Corporate,Male,40
+CUST798,Emily Miller,South,Consumer,Male,61
+CUST799,Steven Robinson,East,Corporate,Male,56
+CUST800,Kevin Lewis,East,Corporate,Male,32
+CUST801,Jessica Robinson,East,Home Office,Male,21
+CUST802,Dorothy Gonzalez,East,Consumer,Female,46
+CUST803,Michael Scott,North,Consumer,Male,39
+CUST804,Linda White,East,Corporate,Male,42
+CUST805,Barbara Garcia,East,Consumer,Female,30
+CUST806,Joshua Garcia,East,Consumer,Female,35
+CUST807,Kimberly Ramirez,North,Consumer,Female,50
+CUST808,Patricia Miller,South,Corporate,Male,33
+CUST809,Michelle Lee,South,Consumer,Female,62
+CUST810,Michael Flores,North,Consumer,Male,59
+CUST811,Susan Smith,North,Consumer,Male,61
+CUST812,George Smith,South,Home Office,Male,19
+CUST813,Betty Flores,East,Corporate,Male,52
+CUST814,Mark White,North,Consumer,Female,59
+CUST815,Karen Garcia,West,Consumer,Female,51
+CUST816,Mark Scott,East,Corporate,Male,47
+CUST817,John Scott,East,Consumer,Male,30
+CUST818,Christopher Perez,South,Corporate,Male,30
+CUST819,David Harris,South,Consumer,Female,35
+CUST820,Elizabeth Hernandez,East,Home Office,Male,49
+CUST821,Andrew Williams,West,Consumer,Male,49
+CUST822,Daniel White,South,Corporate,Female,52
+CUST823,Michael Lopez,East,Consumer,Female,56
+CUST824,Sarah Clark,East,Home Office,Male,63
+CUST825,Edward King,East,Home Office,Female,46
+CUST826,Elizabeth Smith,North,Corporate,Female,46
+CUST827,Robert White,South,Consumer,Male,61
+CUST828,Linda Martinez,South,Consumer,Female,33
+CUST829,Kevin Wright,West,Home Office,Male,61
+CUST830,Dorothy Hernandez,South,Corporate,Female,64
+CUST831,Donald Harris,South,Consumer,Male,27
+CUST832,Elizabeth Thompson,West,Consumer,Male,47
+CUST833,Anthony Thomas,South,Consumer,Male,42
+CUST834,Donna Ramirez,North,Home Office,Female,56
+CUST835,Anthony Robinson,North,Corporate,Male,37
+CUST836,Joshua Thompson,North,Corporate,Female,22
+CUST837,Susan Walker,North,Corporate,Male,18
+CUST838,Emily Flores,South,Consumer,Male,47
+CUST839,Linda Taylor,East,Consumer,Female,20
+CUST840,George Lee,East,Consumer,Male,62
+CUST841,Melissa Smith,North,Corporate,Male,31
+CUST842,Mary Young,East,Consumer,Female,47
+CUST843,Sarah Lee,North,Consumer,Male,21
+CUST844,Nancy Taylor,West,Consumer,Male,35
+CUST845,George Brown,North,Consumer,Male,54
+CUST846,Joshua Scott,East,Corporate,Male,42
+CUST847,Steven Thomas,South,Consumer,Female,18
+CUST848,David Ramirez,East,Consumer,Female,63
+CUST849,Lisa Garcia,South,Corporate,Male,32
+CUST850,Sarah Hill,East,Consumer,Female,26
+CUST851,Susan Davis,North,Consumer,Male,32
+CUST852,Paul Davis,West,Consumer,Female,41
+CUST853,Amanda Wright,South,Home Office,Male,21
+CUST854,Deborah Torres,East,Consumer,Male,29
+CUST855,Richard Rodriguez,West,Corporate,Male,54
+CUST856,Sarah Jackson,West,Home Office,Male,54
+CUST857,Carol Robinson,North,Corporate,Male,60
+CUST858,Steven Scott,South,Consumer,Male,23
+CUST859,Steven Thomas,North,Corporate,Female,56
+CUST860,Christopher Lee,North,Consumer,Male,63
+CUST861,John Robinson,East,Consumer,Female,41
+CUST862,Steven Robinson,West,Corporate,Male,28
+CUST863,Anthony Young,West,Consumer,Female,30
+CUST864,Melissa Thompson,East,Consumer,Female,51
+CUST865,Daniel Jones,East,Consumer,Female,42
+CUST866,Joshua Torres,West,Consumer,Male,24
+CUST867,Paul Wright,West,Consumer,Male,21
+CUST868,Carol Young,North,Corporate,Female,25
+CUST869,Margaret Brown,East,Home Office,Male,37
+CUST870,James Rodriguez,West,Consumer,Female,46
+CUST871,Nancy Robinson,South,Corporate,Male,62
+CUST872,Daniel Smith,South,Consumer,Female,63
+CUST873,William Flores,West,Consumer,Female,27
+CUST874,Deborah Thomas,West,Consumer,Male,60
+CUST875,Kenneth Lewis,West,Consumer,Female,51
+CUST876,George Scott,West,Consumer,Male,43
+CUST877,Ashley Thomas,North,Consumer,Female,58
+CUST878,Ashley Gonzalez,South,Consumer,Female,20
+CUST879,Sarah Harris,East,Corporate,Male,23
+CUST880,Mark White,East,Consumer,Male,22
+CUST881,Karen Taylor,South,Consumer,Male,22
+CUST882,James Harris,East,Consumer,Female,64
+CUST883,Mark Nguyen,South,Corporate,Male,40
+CUST884,Margaret Jackson,East,Consumer,Female,26
+CUST885,Patricia Davis,South,Corporate,Female,52
+CUST886,Thomas Thomas,South,Consumer,Male,37
+CUST887,Charles Thomas,North,Consumer,Male,59
+CUST888,Joshua Garcia,North,Home Office,Female,52
+CUST889,Thomas Miller,West,Consumer,Female,35
+CUST890,Jessica Ramirez,South,Consumer,Male,34
+CUST891,Robert Wilson,North,Consumer,Male,41
+CUST892,Mary Hill,East,Home Office,Male,20
+CUST893,Andrew Martinez,East,Corporate,Male,49
+CUST894,Elizabeth Brown,North,Corporate,Male,52
+CUST895,Lisa Walker,South,Home Office,Female,55
+CUST896,Sandra Scott,North,Consumer,Female,30
+CUST897,Sarah Lopez,East,Home Office,Female,64
+CUST898,Lisa Rodriguez,North,Consumer,Female,42
+CUST899,Edward Davis,North,Corporate,Male,26
+CUST900,Lisa Lee,North,Consumer,Male,21
+CUST901,Robert Jackson,East,Consumer,Male,31
+CUST902,Daniel Hernandez,North,Home Office,Female,54
+CUST903,Michael Johnson,West,Consumer,Female,51
+CUST904,James Martin,North,Home Office,Male,28
+CUST905,John Hill,East,Consumer,Male,58
+CUST906,Richard Clark,South,Corporate,Female,20
+CUST907,Kimberly Martin,South,Home Office,Female,45
+CUST908,Brian Jones,North,Consumer,Male,46
+CUST909,Barbara Hernandez,West,Home Office,Male,26
+CUST910,Michael Lopez,West,Corporate,Female,20
+CUST911,Jessica Walker,North,Corporate,Male,42
+CUST912,Jessica Scott,North,Consumer,Male,51
+CUST913,Joshua Torres,West,Corporate,Male,29
+CUST914,Jennifer Flores,East,Corporate,Female,59
+CUST915,Donald Flores,North,Consumer,Female,26
+CUST916,Sarah Hill,North,Consumer,Female,32
+CUST917,Sandra Williams,East,Consumer,Female,57
+CUST918,Christopher Garcia,East,Home Office,Female,42
+CUST919,Melissa Gonzalez,East,Consumer,Female,22
+CUST920,Barbara Thompson,West,Corporate,Female,28
+CUST921,Nancy Brown,South,Home Office,Male,51
+CUST922,Kenneth King,South,Consumer,Male,41
+CUST923,Donna Harris,South,Consumer,Male,32
+CUST924,Christopher Perez,South,Corporate,Male,55
+CUST925,Anthony Miller,North,Consumer,Male,25
+CUST926,John Hernandez,North,Corporate,Male,22
+CUST927,Daniel Miller,South,Corporate,Male,43
+CUST928,Jennifer Wright,East,Corporate,Female,35
+CUST929,Charles White,North,Consumer,Female,23
+CUST930,Anthony Robinson,South,Corporate,Male,54
+CUST931,Andrew Lopez,East,Corporate,Male,30
+CUST932,Kevin Anderson,East,Consumer,Female,45
+CUST933,Dorothy Taylor,East,Corporate,Male,22
+CUST934,Jennifer Walker,West,Home Office,Male,30
+CUST935,Mary Walker,East,Corporate,Female,34
+CUST936,Robert Rodriguez,North,Consumer,Male,57
+CUST937,Donald Nguyen,South,Consumer,Female,62
+CUST938,Christopher Jones,East,Consumer,Male,49
+CUST939,Barbara Scott,North,Consumer,Female,46
+CUST940,Andrew Jones,North,Consumer,Female,20
+CUST941,Karen Hernandez,North,Home Office,Female,57
+CUST942,David King,South,Consumer,Male,51
+CUST943,Donald Davis,South,Home Office,Female,57
+CUST944,Steven Taylor,North,Consumer,Male,44
+CUST945,Patricia Moore,West,Consumer,Male,30
+CUST946,Elizabeth Martinez,West,Consumer,Male,62
+CUST947,Carol Lewis,North,Consumer,Male,50
+CUST948,Michael Wright,West,Corporate,Female,23
+CUST949,Mark Wright,North,Home Office,Female,41
+CUST950,Donna Wilson,West,Home Office,Male,36
+CUST951,Anthony Perez,West,Consumer,Male,33
+CUST952,Emily Martinez,North,Corporate,Female,57
+CUST953,Thomas Martinez,East,Consumer,Male,45
+CUST954,Joseph Miller,West,Home Office,Female,50
+CUST955,Mary Nguyen,West,Corporate,Male,58
+CUST956,Patricia Scott,West,Consumer,Male,30
+CUST957,James Young,East,Consumer,Female,60
+CUST958,Thomas Lee,North,Consumer,Male,62
+CUST959,Joseph Martin,West,Consumer,Female,42
+CUST960,Daniel Perez,East,Home Office,Male,59
+CUST961,Karen Perez,East,Corporate,Male,53
+CUST962,Dorothy Moore,South,Home Office,Male,44
+CUST963,Charles Garcia,East,Consumer,Female,55
+CUST964,Sarah Garcia,North,Corporate,Male,24
+CUST965,Elizabeth Hill,East,Consumer,Male,22
+CUST966,John Martin,North,Corporate,Male,60
+CUST967,Dorothy Hill,East,Consumer,Male,62
+CUST968,Linda Miller,West,Consumer,Female,48
+CUST969,Charles Thompson,South,Corporate,Female,40
+CUST970,Melissa Rodriguez,South,Consumer,Male,59
+CUST971,David Hernandez,South,Consumer,Female,27
+CUST972,Carol Johnson,West,Corporate,Male,49
+CUST973,Karen Jones,East,Consumer,Male,60
+CUST974,Linda Torres,South,Home Office,Male,47
+CUST975,James Gonzalez,North,Corporate,Female,56
+CUST976,Amanda Harris,North,Home Office,Female,48
+CUST977,Patricia Jackson,South,Corporate,Female,35
+CUST978,Edward Taylor,West,Corporate,Female,53
+CUST979,Anthony Perez,East,Corporate,Female,19
+CUST980,Kimberly Davis,North,Home Office,Female,31
+CUST981,Dorothy Flores,West,Corporate,Female,30
+CUST982,Linda Allen,South,Consumer,Female,46
+CUST983,Kenneth Robinson,West,Consumer,Female,29
+CUST984,Charles Jackson,North,Corporate,Male,56
+CUST985,Dorothy Miller,East,Consumer,Female,19
+CUST986,Dorothy Torres,West,Consumer,Female,49
+CUST987,Paul Wilson,North,Consumer,Female,30
+CUST988,Betty Williams,East,Corporate,Female,63
+CUST989,George Wilson,West,Consumer,Female,44
+CUST990,Robert Young,North,Corporate,Female,58
+CUST991,Steven Harris,North,Corporate,Female,34
+CUST992,Robert Walker,East,Home Office,Female,57
+CUST993,Ashley Young,South,Consumer,Female,48
+CUST994,Dorothy Rodriguez,North,Corporate,Female,51
+CUST995,William Torres,South,Corporate,Female,41
+CUST996,Anthony Moore,East,Consumer,Male,62
+CUST997,Joseph Sanchez,South,Corporate,Male,52
+CUST998,Donna Smith,South,Consumer,Female,23
+CUST999,Betty Flores,West,Home Office,Female,36
+CUST1000,Joseph Lopez,East,Consumer,Male,47
