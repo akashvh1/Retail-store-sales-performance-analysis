@@ -75,9 +75,6 @@ Two related tables, joined on `Customer_ID`:
 - Sales are seasonal: **May** ($53,150) and **October** ($46,580) are peak months, **September**
   ($23,620) is the lowest, and **Q3** is consistently the weakest quarter overall.
 
-Full methodology, tables, and recommendations are in
-[`5_Business_Performance_Analysis_Report.pdf`](./5_Business_Performance_Analysis_Report.pdf).
-
 ## Dashboard
 
 Built in Power BI with four KPI cards and five interactive visuals, filterable by Region, Product
@@ -90,9 +87,6 @@ Category, Order Date, and Customer Segment.
 | Total Sales by Month | Line chart | Seasonal sales trend |
 | Top Customers | Table | Highest-revenue customers |
 | Total Sales by Segment | Pie chart | Revenue split by customer segment |
-
-Open [`3_Power_bi_Dashboard_analysis.pbix`](./3_Power_bi_Dashboard_analysis.pbix) in Power BI
-Desktop to explore interactively with live filters.
 
 ## Repository Structure
 
@@ -114,17 +108,6 @@ Desktop to explore interactively with live filters.
 - **Power BI** — interactive KPI dashboard
 - **SQL** — `INNER JOIN`, `GROUP BY`, aggregate functions
 
-## How to Explore This Project
-
-1. Review the raw data: `Orders.csv`, `Customers.csv`
-2. Run [`1_Mysql_task2_queries.sql`](./1_Mysql_task2_queries.sql) in MySQL or SQLite to see the
-   table creation, JOIN, and KPI queries
-3. Open [`2_ExcelPivot_analysis.xlsx`](./2_ExcelPivot_analysis.xlsx) for the Excel-based pivot
-   and comparative analysis
-4. Open [`3_Power_bi_Dashboard_analysis.pbix`](./3_Power_bi_Dashboard_analysis.pbix) in Power BI
-   Desktop for the interactive dashboard
-5. Read [`5_Business_Performance_Analysis_Report.pdf`](./5_Business_Performance_Analysis_Report.pdf)
-   for the full write-up, business questions answered, and recommendations
 
 ## Learnings
 
